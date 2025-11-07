@@ -141,13 +141,14 @@ td ul li {
 
 ## Instruções para Realizar a Atividade
 
-1. **Crie um arquivo HTML** chamado `index.html`
-2. **Crie um arquivo CSS** chamado `style.css`
-3. **Copie o código HTML** fornecido acima para o arquivo `index.html`
-4. **Copie o código CSS** fornecido acima para o arquivo `style.css`
-5. **Abra o arquivo HTML** em seu navegador para visualizar a tabela
-6. **Experimente modificar** as cores, tamanhos e estilos para personalizar sua tabela
-7. **Adicione mais disciplinas** seguindo o mesmo padrão do exemplo
+- [ ] **Crie um arquivo HTML** chamado `disciplinas.html`
+- [ ] **Crie um arquivo CSS** chamado `disciplinas.css`
+- [ ] **Crie a estrutura inicial do HTML 5** no arquivo `disciplinas.html`
+- [ ] **Defina o título da página** coloque a identificação no arquivo `disciplinas.html`. Lembre de atualizar também o `title`.
+- [ ] **Copie o código CSS** fornecido acima para o arquivo `disciplinas.css`
+- [ ] **Abra o arquivo HTML** em seu navegador para visualizar a tabela
+- [ ] **Experimente modificar** as cores, tamanhos e estilos para personalizar sua tabela
+- [ ] **Adicione as disciplinas**: matemática discreta, programação de computadores , e sistemas digitais
 
 ## Desafios Adicionais (Opcional)
 
